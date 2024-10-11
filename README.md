@@ -5,18 +5,18 @@ Myself Tejas, Founder of T-Service.
 T-Service is the root of our services from there you can select what you want from our side,
 
 For gaming we present you the one and only
-T-Games.
+Kendoi Game Studio.
 
-About TGames: 
+About Kendoi Game Studio: 
 
-TGames is a gaming platform that provides the best gaming experience for all gamers out there. With our wide range of games, we ensure that you will never get bored. We are dedicated to providing you with the latest and most popular games that will keep you engaged for hours. T-Games is Operated by T-Services
+Kendoi Game Studio is a leading game publisher and developer specializing in Android and PC games. We create unforgettable gaming experiences filled with intrigue and mystery.
 
-We have one more platform named: T-Technology
+We have one more platform named: Zen-Tech
 
-About T-Technology:
+About Zen-Tech:
 
-T-Technology is a versatile platform that offers users innovative and convenient solutions to everyday challenges and needs.
+ZenTech is dedicated to delivering high-quality softwares, Websites and Mobile Applications solutions that drive innovation and growth for small and medium businesses worldwide.
 
-T-Service owns the above platform!
+T-Service owns the above all platform!
 
-© 2023 T-Services. All rights reserved.
+Copyright © 2023 T-Services. All rights reserved.
