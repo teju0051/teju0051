@@ -1,22 +1,25 @@
-Hi viewer,
+T-Service Global
 
-Myself Tejas, Founder of T-Service.
+Welcome to T-Service, where innovation meets excellence. We are dedicated to providing top-tier services across multiple domains, ensuring quality, reliability, and unmatched support for our clients.
 
-T-Service is the root of our services from there you can select what you want from our side,
+🌟 Our Platforms: 
 
-For gaming we present you the one and only
-Kendoi Game Studio.
 
-About Kendoi Game Studio: 
+🎨 T-Arts (Founded: April 28, 2022)
+A digital art platform showcasing creativity through stunning illustrations, paintings, and artistic expressions. Bringing imagination to life through digital artistry!
 
-Kendoi Game Studio is a leading game publisher and developer specializing in Android and PC games. We create unforgettable gaming experiences filled with intrigue and mystery.
 
-We have one more platform named: Zen-Tech
+🔹 Zen-Tech (Founded: March 13, 2023)
+Innovating Technology for a Better Tomorrow
+A cutting-edge technology platform under T-Service Group, Zen-Tech specializes in custom software development, website solutions, and digital transformation, catering to businesses, schools, and individuals.
 
-About Zen-Tech:
 
-ZenTech is dedicated to delivering high-quality softwares, Websites and Mobile Applications solutions that drive innovation and growth for small and medium businesses worldwide.
 
-T-Service owns the above all platform!
+🎵 Sonali Music House (Founded: February 1, 2025)
+A music production house committed to creating soulful melodies, beats, and professional soundtracks. Crafting music that resonates with the world!
 
-Copyright © 2023 T-Services. All rights reserved.
+
+
+T-Service was established on December 21, 2021 and continues to expand its presence in technology, art, and music.
+
+2021 - 2025 © T-Service | All Rights Reserved
