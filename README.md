@@ -1,25 +1,45 @@
 T-Service Global
 
-Welcome to T-Service, where innovation meets excellence. We are dedicated to providing top-tier services across multiple domains, ensuring quality, reliability, and unmatched support for our clients.
+Welcome to T-Service, where innovation meets excellence.
+We are a multidisciplinary company driven by creativity, technology, and vision delivering impactful solutions and platforms that empower businesses, creators, and individuals worldwide.
 
-🌟 Our Platforms: 
+Founded on December 21, 2021, T-Service has steadily evolved into a global ecosystem spanning technology, art, and music. Our mission is to bridge creativity with technology, ensuring reliability, quality, and unmatched support for every client and community we serve.
+
+Our Platforms
 
 
-🎨 T-Arts (Founded: April 28, 2022)
-A digital art platform showcasing creativity through stunning illustrations, paintings, and artistic expressions. Bringing imagination to life through digital artistry!
+ Zen-Tech (Founded: March 13, 2023)
 
-
-🔹 Zen-Tech (Founded: March 13, 2023)
 Innovating Technology for a Better Tomorrow
-A cutting-edge technology platform under T-Service Group, Zen-Tech specializes in custom software development, website solutions, and digital transformation, catering to businesses, schools, and individuals.
+Zen-Tech is our technology powerhouse, specializing in:
+
+🌐 Custom Website Development
+💻 Software Solutions (LMS, ERP, CRM, CMS, Custom Business Tools)
+🏫 Digital Transformation for Educations & Businesses
+
+Zen-Tech is built on the belief that technology should not only serve but transform lives and industries for a brighter future.
+
+
+T-Arts (Founded: August 26, 2022)
+
+Where Imagination Becomes Reality
+T-Arts is our creative wing, designed to celebrate digital artistry. From illustrations and paintings to groundbreaking artistic expressions, T-Arts is a hub for showcasing imagination through visual storytelling and digital design.
 
 
 
-🎵 Sonali Music House (Founded: February 1, 2025)
-A music production house committed to creating soulful melodies, beats, and professional soundtracks. Crafting music that resonates with the world!
+
+🌟 Our Vision & Mission
+
+To empower creators and businesses with world-class platforms.
+To integrate art, technology, and innovation under one global ecosystem.
+To build sustainable solutions that inspire growth and creativity.
+
+📅 Timeline
+
+2021 – T-Service Established
+2022 – Launch of T-Arts
+2023 – Launch of Zen-Tech
+2025 and beyond – Expanding into new horizons of creativity, innovation, and digital excellence
 
 
-
-T-Service was established on December 21, 2021 and continues to expand its presence in technology, art, and music.
-
-2021 - 2025 © T-Service | All Rights Reserved
+2021 – 2025 © T-Service | All Rights Reserved
